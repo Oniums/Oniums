@@ -1,8 +1,8 @@
-# Hi, I'm Oniums 👋
+# Hi, I'm West Zhao 👋
 
 **Embedded Firmware Engineer · Smart Home · Wireless Connectivity**
 
-嵌入式固件开发者，关注低功耗设备、无线协议与可靠的工程交付。  
+嵌入式固件开发者，关注低功耗设备、无线协议与可靠的工程交付。<br>
 在代码、日志和抓包中理解系统，也把解决问题的过程整理成可以复用的技术文章。
 
 [技术博客](https://oniums.github.io/) · [项目与实践](https://oniums.github.io/projects/) · [关于我](https://oniums.github.io/about/)
@@ -16,8 +16,8 @@
 
 ## 🧰 技术栈
 
-`C` `Python` `Zephyr` `FreeRTOS`  
-`Matter` `Thread` `Zigbee` `BLE`  
+`C` `Python` `Zephyr` `FreeRTOS`<br>
+`Matter` `Thread` `Zigbee` `BLE`<br>
 `MCUboot` `CMake` `Git` `Wireshark`
 
 ## 📝 精选文章
