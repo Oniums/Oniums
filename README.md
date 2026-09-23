@@ -1,7 +1,9 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-header-compact.svg">
-    <img src="./assets/profile-header.svg" width="100%" alt="West Zhao · Embedded Firmware Engineer · Matter / Thread / Zigbee / BLE">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile-header-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header.svg">
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-compact-light.svg">
+    <img src="./assets/profile-header-light.svg" width="100%" alt="West Zhao · Embedded Firmware Engineer · Matter / Thread / Zigbee / BLE">
   </picture>
 </p>
 
@@ -27,18 +29,20 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/tech-stack-compact.svg">
-    <img src="./assets/tech-stack.svg" width="100%" alt="C · Python · Zephyr · FreeRTOS · Linux · Git / Matter · Thread · Zigbee · BLE · MCUboot · CMake">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/tech-stack-compact.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack.svg">
+    <source media="(max-width: 600px)" srcset="./assets/tech-stack-compact-light.svg">
+    <img src="./assets/tech-stack-light.svg" width="100%" alt="C · Python · Zephyr · FreeRTOS · Linux · Git / Matter · Thread · Zigbee · BLE · MCUboot · CMake">
   </picture>
 </p>
 
 ### Projects
 
 <p align="center">
-  <a href="https://oniums.github.io/"><img src="./assets/project-blog.svg" width="400" alt="Oniums Lab：嵌入式固件与无线协议技术笔记"></a>
-  <a href="https://oniums.github.io/tools/"><img src="./assets/project-tools.svg" width="400" alt="工程工具箱：串口、配对码、固件对比与日志分析"></a>
-  <a href="https://oniums.github.io/playground/commissioning/"><img src="./assets/project-commissioning.svg" width="400" alt="Matter 配网演示：配网流程与典型故障场景对照"></a>
-  <a href="https://oniums.github.io/playground/radar/"><img src="./assets/project-radar.svg" width="400" alt="雷达交互课堂：FMCW 测距、采样与距离频谱"></a>
+  <a href="https://oniums.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-blog.svg"><img src="./assets/project-blog-light.svg" width="400" alt="Oniums Lab：嵌入式固件与无线协议技术笔记"></picture></a>
+  <a href="https://oniums.github.io/tools/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-tools.svg"><img src="./assets/project-tools-light.svg" width="400" alt="工程工具箱：串口、配对码、固件对比与日志分析"></picture></a>
+  <a href="https://oniums.github.io/playground/commissioning/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-commissioning.svg"><img src="./assets/project-commissioning-light.svg" width="400" alt="Matter 配网演示：配网流程与典型故障场景对照"></picture></a>
+  <a href="https://oniums.github.io/playground/radar/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-radar.svg"><img src="./assets/project-radar-light.svg" width="400" alt="雷达交互课堂：FMCW 测距、采样与距离频谱"></picture></a>
 </p>
 
 ### GitHub Activity
@@ -46,8 +50,10 @@
 <p align="center">
   <a href="https://github.com/Oniums?tab=repositories">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/github-overview-compact.svg">
-      <img src="./assets/github-overview.svg" width="100%" alt="GitHub 公开统计：仓库、原创仓库获星、关注者与年度贡献，更新日期见图">
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/github-overview-compact.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-overview.svg">
+      <source media="(max-width: 600px)" srcset="./assets/github-overview-compact-light.svg">
+      <img src="./assets/github-overview-light.svg" width="100%" alt="GitHub 公开统计：仓库、原创仓库获星、关注者与年度贡献，更新日期见图">
     </picture>
   </a>
 </p>
@@ -55,8 +61,10 @@
 <p align="center">
   <a href="https://github.com/Oniums?tab=overview">
     <picture>
-      <source media="(max-width: 600px)" srcset="./assets/github-activity-compact.svg">
-      <img src="./assets/github-activity.svg" width="100%" alt="GitHub 公开贡献日历；桌面显示全年，移动端显示最近十三周">
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/github-activity-compact.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-activity.svg">
+      <source media="(max-width: 600px)" srcset="./assets/github-activity-compact-light.svg">
+      <img src="./assets/github-activity-light.svg" width="100%" alt="GitHub 公开贡献日历；桌面显示全年，移动端显示最近十三周">
     </picture>
   </a>
 </p>

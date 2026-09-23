@@ -13,6 +13,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.request import Request, urlopen
 
+from profile_theme import to_light
+
 
 USER = "Oniums"
 ASSETS = Path(__file__).resolve().parents[1] / "assets"
@@ -123,6 +125,8 @@ def main():
         suffix = "-compact" if compact else ""
         outputs[f"github-overview{suffix}.svg"] = overview(profile, stars, contributions, updated, compact)
         outputs[f"github-activity{suffix}.svg"] = activity(calendar.days, updated, compact)
+    for name, content in list(outputs.items()):
+        outputs[name.replace(".svg", "-light.svg")] = to_light(content)
     ASSETS.mkdir(exist_ok=True)
     for name, content in outputs.items():
         (ASSETS / name).write_text(content, encoding="utf-8")
