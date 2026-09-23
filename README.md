@@ -1,29 +1,64 @@
-# Hi, I'm West Zhao 👋
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-compact.svg">
+    <img src="./assets/profile-header.svg" width="100%" alt="West Zhao · Embedded Firmware Engineer · Matter / Thread / Zigbee / BLE">
+  </picture>
+</p>
 
-**Embedded Firmware Engineer · Smart Home · Wireless Connectivity**
+<p align="center">
+  <a href="https://oniums.github.io/"><b>Blog</b></a>
+  &nbsp; / &nbsp;
+  <a href="https://oniums.github.io/tools/">Tools</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/Oniums?tab=repositories">Repositories</a>
+  &nbsp; / &nbsp;
+  <a href="https://oniums.github.io/about/">About</a>
+</p>
 
-嵌入式固件开发者，关注低功耗设备、无线协议与可靠的工程交付。<br>
-在代码、日志和抓包中理解系统，也把解决问题的过程整理成可以复用的技术文章。
+### About
 
-[技术博客](https://oniums.github.io/) · [项目与实践](https://oniums.github.io/projects/) · [关于我](https://oniums.github.io/about/)
+嵌入式固件工程师，常驻深圳，主要从事智能家居与无线设备开发。
 
-## 🔧 我在做什么
+- **方向** · Matter over Thread、Zigbee、BLE、低功耗与 OTA
+- **开发** · 驱动与应用、协议调试、设备兼容、工程工具
+- **分享** · [技术文章](https://oniums.github.io/archives/)与[项目记录](https://oniums.github.io/projects/)
 
-- **智能家居固件**：Matter over Thread、Zigbee 与 BLE 设备开发。
-- **低功耗与升级**：休眠设备、OTA、启动与镜像管理。
-- **协议排障**：从设备日志和通信过程定位配网、连接与互操作问题。
-- **工程记录**：分享源码阅读、调试过程与实践经验。
+### Tech Stack
 
-## 🧰 技术栈
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/tech-stack-compact.svg">
+    <img src="./assets/tech-stack.svg" width="100%" alt="C · Python · Zephyr · FreeRTOS · Linux · Git / Matter · Thread · Zigbee · BLE · MCUboot · CMake">
+  </picture>
+</p>
 
-`C` `Python` `Zephyr` `FreeRTOS`<br>
-`Matter` `Thread` `Zigbee` `BLE`<br>
-`MCUboot` `CMake` `Git` `Wireshark`
+### Projects
 
-## 📝 精选文章
+<p align="center">
+  <a href="https://oniums.github.io/"><img src="./assets/project-blog.svg" width="400" alt="Oniums Lab：嵌入式固件与无线协议技术笔记"></a>
+  <a href="https://oniums.github.io/tools/"><img src="./assets/project-tools.svg" width="400" alt="工程工具箱：串口、配对码、固件对比与日志分析"></a>
+  <a href="https://oniums.github.io/playground/commissioning/"><img src="./assets/project-commissioning.svg" width="400" alt="Matter 配网演示：配网流程与典型故障场景对照"></a>
+  <a href="https://oniums.github.io/playground/radar/"><img src="./assets/project-radar.svg" width="400" alt="雷达交互课堂：FMCW 测距、采样与距离频谱"></a>
+</p>
 
-- [BLE 已连接，Matter 配网为什么还卡住？](https://oniums.github.io/posts/matter-ble-connected-stale-discovery-pase-analysis/)
-- [Telink Matter SDK 入门：Zephyr、Matter 与底层库怎样组成一个固件？](https://oniums.github.io/posts/telink-zephyr-matter-build-pipeline/)
-- [BLE GATT 入门：手机连上设备后，到底发生了什么？](https://oniums.github.io/posts/ble-gatt-connection-basics/)
+### GitHub Activity
 
-更多源码阅读、调试记录与工程实践，见 [Oniums Lab](https://oniums.github.io/)。
+<p align="center">
+  <a href="https://github.com/Oniums?tab=repositories">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/github-overview-compact.svg">
+      <img src="./assets/github-overview.svg" width="100%" alt="GitHub 公开统计：仓库、原创仓库获星、关注者与年度贡献，更新日期见图">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Oniums?tab=overview">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/github-activity-compact.svg">
+      <img src="./assets/github-activity.svg" width="100%" alt="GitHub 公开贡献日历；桌面显示全年，移动端显示最近十三周">
+    </picture>
+  </a>
+</p>
+
+<!-- Statistics: python3 scripts/update-profile.py; scheduled daily after publication. -->

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">West Zhao — Embedded Firmware Engineer</title>
+  <desc id="desc">A midnight blue circuit board with connected wireless nodes. Smart home, firmware and wireless connectivity.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101D30"/>
+      <stop offset="1" stop-color="#07121F"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(950 175) rotate(90) scale(235 340)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#547089" fill-opacity=".22"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#halo)"/>
+  <path d="M48 51H80" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round"/>
+  <text x="94" y="56" fill="#8DA9BC" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="3">ONIUMS / EMBEDDED SYSTEMS</text>
+
+  <text x="48" y="149" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">West Zhao<tspan fill="#5EEAD4">.</tspan></text>
+  <text x="51" y="194" fill="#CBD8E5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="24">Embedded Firmware Engineer</text>
+  <text x="51" y="226" fill="#8DA9BC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="18">Matter / Thread / Zigbee / BLE</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1">
+    <rect x="50" y="275" width="100" height="30" rx="15" fill="#132F3D" stroke="#28535B"/>
+    <text x="100" y="295" text-anchor="middle" fill="#8AE8D5">FIRMWARE</text>
+    <rect x="162" y="275" width="100" height="30" rx="15" fill="#132F3D" stroke="#28535B"/>
+    <text x="212" y="295" text-anchor="middle" fill="#8AE8D5">WIRELESS</text>
+    <rect x="274" y="275" width="110" height="30" rx="15" fill="#132F3D" stroke="#28535B"/>
+    <text x="329" y="295" text-anchor="middle" fill="#8AE8D5">LOW POWER</text>
+  </g>
+
+  <!-- Decorative topology, not a protocol architecture diagram. -->
+  <g stroke="#2C5368" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M740 89H798L848 139H883"/>
+    <path d="M931 111V76L972 35H1071"/>
+    <path d="M979 151H1040L1080 111H1138"/>
+    <path d="M979 183H1015L1080 248H1140"/>
+    <path d="M931 207V250L976 295H1045"/>
+    <path d="M883 183H839L777 245H712"/>
+    <path d="M850 311H878L906 283V230" stroke="#1C394C"/>
+    <path d="M1013 64V89L1051 127" stroke="#1C394C"/>
+  </g>
+  <g fill="#0D202E" stroke="#44758B" stroke-width="2">
+    <circle cx="740" cy="89" r="7"/>
+    <circle cx="1071" cy="35" r="5"/>
+    <circle cx="1138" cy="111" r="7"/>
+    <circle cx="1140" cy="248" r="7"/>
+    <circle cx="1045" cy="295" r="5"/>
+    <circle cx="712" cy="245" r="7"/>
+  </g>
+  <g fill="#5EEAD4">
+    <circle cx="812" cy="103" r="4"/>
+    <circle cx="1060" cy="228" r="4"/>
+    <circle cx="931" cy="239" r="4"/>
+  </g>
+  <rect x="873" y="101" width="116" height="116" rx="25" fill="#5EEAD4" fill-opacity=".04" stroke="#5EEAD4" stroke-opacity=".12"/>
+  <rect x="883" y="111" width="96" height="96" rx="18" fill="#112C3B" stroke="#5EEAD4" stroke-opacity=".65"/>
+  <g stroke="#81E9D8" stroke-width="3" stroke-linecap="round">
+    <path d="M909 148Q931 126 953 148"/>
+    <path d="M918 158Q931 145 944 158"/>
+  </g>
+  <circle cx="931" cy="170" r="4" fill="#81E9D8"/>
+  <path d="M915 187H947" stroke="#44758B" stroke-width="2" stroke-linecap="round"/>
+  <text x="927" y="337" text-anchor="middle" fill="#648699" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="3">SMART HOME / EMBEDDED SYSTEMS</text>
+</svg>
